@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZharPtutsya
-- 👀 I’m interested in haking Russian website
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming without knowing programming
+- 🌱 I’m currently learning everything that interests me
 - 💞️ I’m looking to collaborate on everyone(except Russian people)
 - 📫 How to reach me 
 
