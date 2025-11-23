@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZharPtutsya
+- 👋 Hi, I’m Akiko with five k (or ZharPtutsya)
 - 👀 I’m interested in programming without knowing programming
 - 🌱 I’m currently learning everything that interests me
 - 💞️ I’m looking to collaborate on everyone(except Russian people)
